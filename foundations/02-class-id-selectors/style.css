@@ -1,0 +1,27 @@
+.pink-box {
+    background-color: #efaed1;
+}
+
+.small-text {
+    font-size: 30px;
+}
+
+.medium-text {
+    font-size: 45px;
+}
+
+.large-text {
+    font-size: 65px;
+}
+
+#green-background {
+    background-color: #47e696;
+}
+
+#blue-text {
+    color: #2f2cdb;
+}
+
+.bold-text {
+    font-weight: bold;
+}
